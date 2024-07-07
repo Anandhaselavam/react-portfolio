@@ -79,5 +79,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "C11/7 Reserveline, Natham main road, madurai-625014 ",
   phoneNo: "+91 6380077097 ",
-  email: "anandselvam@gmail.com",
+  email: "anandselvam412@gmail.com",
 };
